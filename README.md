@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some frontend projects
+- 🌱 I’m currently learning frontend and backend technologies (React js,Typescipt,Laravel) 
 <!--
 **ProfessorMR/ProfessorMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
