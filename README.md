@@ -1,7 +1,7 @@
 ### Hi there, I'm Professor_mr => Mohammad👋
 
 - 🔭 I’m currently working on some frontend projects
-- 🌱 I’m currently learning frontend and backend technologies (React js,Typescript,Laravel)
+- 🌱 I’m currently learning frontend and backend technologies (React js,Typescript)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ProfessorMR&show_icons=true&theme=merko">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorMR&layout=compact">
