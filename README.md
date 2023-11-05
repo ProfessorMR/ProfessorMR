@@ -25,6 +25,6 @@
 
 <div align="center">
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProfessorMR\&layout=compact\&theme=monokai)](https://github-readme-stats.vercel.app/api/wakatime?username=ProfessorMR)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professor_mr\&layout=compact\&theme=monokai)](https://github-readme-stats.vercel.app/api/wakatime?username=professor_mr)
 
 </div>
