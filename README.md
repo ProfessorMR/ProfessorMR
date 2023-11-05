@@ -20,3 +20,11 @@
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
+📈 my github stats
+
+
+<div align="center">
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProfessorMR\&layout=compact\&theme=monokai)](https://github-readme-stats.vercel.app/api/wakatime?username=ProfessorMR)
+
+</div>
