@@ -29,8 +29,6 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ProfessorMR&style=for-the-badge&color=blueviolet)](https://github.com/ProfessorMR)
-
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professor_mr\&layout=compact\&theme=monokai)](https://github-readme-stats.vercel.app/api/wakatime?username=professor_mr)
 
 </div>
