@@ -1,7 +1,6 @@
 ### Hi there, I'm Professor_mr => Mohammad👋
 
 - 🔭 I’m currently working on some frontend projects
-- 🌱 I’m currently learning frontend technologies (React js,Typescript)
 
 # Skills
 
