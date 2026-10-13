@@ -32,3 +32,11 @@
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professor_mr\&layout=compact\&theme=monokai)](https://github-readme-stats.vercel.app/api/wakatime?username=professor_mr)
 
 </div>
+
+## Support My Projects And Buy Me Coffee ❤️☕
+
+<p align="center">
+  <a href="https://reymit.ir/professor_mr">
+    <img src="https://img.shields.io/badge/Support_My_Work-❤️-E84D60?style=for-the-badge" alt="Support My Work" />
+  </a>
+</p>
