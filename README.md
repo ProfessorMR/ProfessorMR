@@ -1,8 +1,10 @@
-### Hi there, I'm Professor_mr => Mohammad👋
+Hey, I'm Mohammad (Professor_mr) 👋
 
-- 🔭 I’m currently working on some frontend projects
+💻 Frontend Developer passionate about building modern web experiences.
 
-# Skills
+🌱 Currently working with React, Next.js, and TypeScript.
+
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -25,6 +27,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20PremierePro-EA77FF?logo=Adobe-Premiere-Pro&logoColor=white)
+
+## 🚀 Featured Projects
+
+- LOCA — A local discovery app for exploring places.
 
 ## My coding status 💻
 
@@ -34,7 +41,7 @@
 
 </div>
 
-## Support My Projects And Buy Me Coffee ❤️☕
+## ❤️ Support My Work
 
 <p align="center">
   <a href="https://reymit.ir/professor_mr">
